@@ -10,6 +10,12 @@ echo -e "\e[94m
 
 wait
 
+# install 
+sudo apt-get install iptables -y
+sudo apt update && apt upgrade -y
+
+wait
+
 read -p "Enter ip iran: " ipiran
 if [ "$ipiran" = "" ]; then
 exit
