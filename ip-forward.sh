@@ -4,7 +4,7 @@
 
 echo -e "\e[94m
 =================================================================
-    Telegram Channel: @wizwizch | Telegram Group: @wizwizdev
+    Telegram ID: @mostafacpr | Telegram bot : @statusaccount
 =================================================================
 \033[0m"
 
