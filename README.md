@@ -4,7 +4,7 @@
 ## Installation
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/wizwizdev/tunel/main/ip-forward.sh)
+bash <(curl -s https://github.com/mostafacpr/tunel/blob/main/ip-forward.sh)
 ```
 
 <br>
